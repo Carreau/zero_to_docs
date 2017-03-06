@@ -32,9 +32,9 @@ Simply run `doctr configure` in the repository
 
     ~/dev/zero_to_docs master "!!" $ doctr configure
     What is your GitHub username? Carreau
-    Enter the GitHub password for Carreau: <nysecretpassord>
+    Enter the GitHub password for Carreau: <mysecretpassword>
     A two-factor authentication code is required: app
-    Authentication code: <my 2fA AUTH CODE>
+    Authentication code: <my 2fA AUTH CODE: 123456>
     What repo do you want to build the docs for (org/reponame, like 'drdoctr/doctr')? Carreau/zero_to_docs
     What repo do you want to deploy the docs to? [Carreau/zero_to_docs]
 
